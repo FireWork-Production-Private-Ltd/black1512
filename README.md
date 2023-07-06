@@ -24,7 +24,7 @@
 ## 🎵 Spotify status
 
 <a href="https://open.spotify.com/playlist/03QoJCxdJn0XhEK17Yx89j">
-  <img src="https://mosaic.scdn.co/300/ab67616d00001e0228a2cd36db7490d4c9b172fdab67616d00001e0235434332333f323251d013c2ab67616d00001e023ae76ba4d84682ee28b8aab8ab67616d00001e0246131d4d7919c5cacd15c7d3" width="200" height="300" alt="Now Playing">
+  <img src="https://mosaic.scdn.co/300/ab67616d00001e0228a2cd36db7490d4c9b172fdab67616d00001e0235434332333f323251d013c2ab67616d00001e023ae76ba4d84682ee28b8aab8ab67616d00001e0246131d4d7919c5cacd15c7d3" width="200" height="225" alt="Now Playing">
 </a>
 
 <!-- <div id = "some_issues">

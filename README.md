@@ -19,7 +19,7 @@
 - etc...
 
 ## 💻 Final Year Project
-- [Voting System](https://github.com/black1512/8th_sem_mongoVoting_project)
+- [Voting System](https://github.com/black1512/8th_sem_Mongo_Voting)
 
 ## 📚 Learning
 - PHP and WordPress  
